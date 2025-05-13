@@ -16,11 +16,11 @@ def lime_view(request):
 def orange_view(request):
     return render(request, 'base.html')
 
-def drink_view(request):
-    return render(request, 'base.html')
+# def drink_view(request):
+#     return render(request, 'base.html')
 
-def nonalcohol_view(request):
-    return render(request, 'base.html')
+# def nonalcohol_view(request):
+#     return render(request, 'base.html')
 
-def alcohol_view(request):
-    return render(request, 'base.html')
+# def alcohol_view(request):
+#     return render(request, 'base.html')
